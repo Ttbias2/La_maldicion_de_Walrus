@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="personaje.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="359" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="enemigos.c" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="778" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="6" />
+			<Collapse line="43" />
+			<Collapse line="113" />
+			<Collapse line="184" />
+			<Collapse line="250" />
+			<Collapse line="282" />
+			<Collapse line="294" />
+		</Folding>
+	</File>
+	<File name="inventario.c" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3959" topLine="8" />
+		</Cursor>
+		<Folding>
+			<Collapse line="6" />
+			<Collapse line="28" />
+			<Collapse line="41" />
+			<Collapse line="56" />
+			<Collapse line="64" />
+			<Collapse line="69" />
+			<Collapse line="79" />
+			<Collapse line="91" />
+			<Collapse line="106" />
+			<Collapse line="112" />
+			<Collapse line="126" />
+			<Collapse line="135" />
+			<Collapse line="160" />
+			<Collapse line="167" />
+			<Collapse line="196" />
+		</Folding>
+	</File>
+	<File name="inventario.h" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="243" topLine="7" />
+		</Cursor>
+	</File>
+	<File name="habilidades.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1658" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="6" />
+			<Collapse line="23" />
+		</Folding>
+	</File>
+	<File name="Pueblo.c" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="17956" topLine="193" />
+		</Cursor>
+		<Folding>
+			<Collapse line="15" />
+			<Collapse line="28" />
+			<Collapse line="141" />
+			<Collapse line="250" />
+			<Collapse line="310" />
+			<Collapse line="359" />
+			<Collapse line="394" />
+			<Collapse line="410" />
+			<Collapse line="424" />
+			<Collapse line="580" />
+			<Collapse line="624" />
+			<Collapse line="662" />
+		</Folding>
+	</File>
+	<File name="batallas.c" open="1" top="1" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="9591" topLine="139" />
+		</Cursor>
+		<Folding>
+			<Collapse line="10" />
+			<Collapse line="19" />
+			<Collapse line="24" />
+			<Collapse line="32" />
+			<Collapse line="47" />
+			<Collapse line="90" />
+			<Collapse line="107" />
+			<Collapse line="118" />
+			<Collapse line="201" />
+			<Collapse line="261" />
+			<Collapse line="304" />
+			<Collapse line="331" />
+			<Collapse line="362" />
+			<Collapse line="382" />
+			<Collapse line="396" />
+			<Collapse line="410" />
+		</Folding>
+	</File>
+	<File name="Pueblo.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="222" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="batallas.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1045" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2515" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="11" />
+		</Folding>
+	</File>
+	<File name="habilidades.c" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6510" topLine="17" />
+		</Cursor>
+		<Folding>
+			<Collapse line="7" />
+			<Collapse line="12" />
+			<Collapse line="51" />
+			<Collapse line="58" />
+			<Collapse line="67" />
+			<Collapse line="77" />
+			<Collapse line="93" />
+			<Collapse line="121" />
+			<Collapse line="135" />
+			<Collapse line="146" />
+			<Collapse line="168" />
+			<Collapse line="189" />
+			<Collapse line="204" />
+			<Collapse line="236" />
+			<Collapse line="278" />
+			<Collapse line="288" />
+			<Collapse line="299" />
+		</Folding>
+	</File>
+	<File name="enemigos.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="447" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="personaje.c" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4255" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="6" />
+			<Collapse line="33" />
+			<Collapse line="49" />
+			<Collapse line="56" />
+			<Collapse line="72" />
+			<Collapse line="79" />
+			<Collapse line="168" />
+			<Collapse line="191" />
+		</Folding>
+	</File>
+</CodeBlocks_layout_file>

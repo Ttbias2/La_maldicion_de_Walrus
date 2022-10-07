@@ -1,0 +1,265 @@
+# depslib dependency file v1.0
+1637030650 source:c:\users\tobias\desktop\universidad\2° cuatri\programacion y laboratorio\z proyecto final\rpg\personaje.c
+	<stdio.h>
+	<stdlib.h>
+	"personaje.h"
+	<string.h>
+
+1636907368 c:\users\tobias\desktop\universidad\2° cuatri\programacion y laboratorio\z proyecto final\rpg\personaje.h
+
+1637106597 source:c:\users\tobias\desktop\universidad\2° cuatri\programacion y laboratorio\z proyecto final\rpg\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"personaje.h"
+	"habilidades.h"
+	"inventario.h"
+	"enemigos.h"
+	"batallas.h"
+	"pueblo.h"
+
+1637073151 source:c:\users\tobias\desktop\universidad\2° cuatri\programacion y laboratorio\z proyecto final\rpg\habilidades.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"personaje.h"
+	"habilidades.h"
+
+1636983104 c:\users\tobias\desktop\universidad\2° cuatri\programacion y laboratorio\z proyecto final\rpg\habilidades.h
+
+1637070802 source:c:\users\tobias\desktop\universidad\2° cuatri\programacion y laboratorio\z proyecto final\rpg\inventario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"inventario.h"
+
+1636907368 c:\users\tobias\desktop\universidad\2° cuatri\programacion y laboratorio\z proyecto final\rpg\inventario.h
+
+1636990853 source:c:\users\tobias\desktop\universidad\2° cuatri\programacion y laboratorio\z proyecto final\rpg\enemigos.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Enemigos.h"
+
+1636922319 c:\users\tobias\desktop\universidad\2° cuatri\programacion y laboratorio\z proyecto final\rpg\enemigos.h
+
+1637029798 c:\users\tobias\desktop\universidad\2° cuatri\programacion y laboratorio\z proyecto final\rpg\batallas.h
+
+1637107423 source:c:\users\tobias\desktop\universidad\2° cuatri\programacion y laboratorio\z proyecto final\rpg\batallas.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"personaje.h"
+	"habilidades.h"
+	"inventario.h"
+	"enemigos.h"
+	"batallas.h"
+
+1637106827 source:c:\users\tobias\desktop\universidad\2° cuatri\programacion y laboratorio\z proyecto final\rpg\pueblo.c
+	<stdlib.h>
+	<stdio.h>
+	"string.h"
+	"Pueblo.h"
+
+1637106071 c:\users\tobias\desktop\universidad\2° cuatri\programacion y laboratorio\z proyecto final\rpg\pueblo.h
+	"personaje.h"
+	"Inventario.h"
+
+1637116575 source:c:\users\agust\dropbox\tecnicatura\2do cuatrimestre\programacion y laboratorio ii\tps\proyecto\a - la maldicion de walrus\batallas.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"personaje.h"
+	"habilidades.h"
+	"inventario.h"
+	"enemigos.h"
+	"batallas.h"
+
+1636907368 c:\users\agust\dropbox\tecnicatura\2do cuatrimestre\programacion y laboratorio ii\tps\proyecto\a - la maldicion de walrus\personaje.h
+
+1636983104 c:\users\agust\dropbox\tecnicatura\2do cuatrimestre\programacion y laboratorio ii\tps\proyecto\a - la maldicion de walrus\habilidades.h
+
+1636907368 c:\users\agust\dropbox\tecnicatura\2do cuatrimestre\programacion y laboratorio ii\tps\proyecto\a - la maldicion de walrus\inventario.h
+
+1636922319 c:\users\agust\dropbox\tecnicatura\2do cuatrimestre\programacion y laboratorio ii\tps\proyecto\a - la maldicion de walrus\enemigos.h
+
+1637029798 c:\users\agust\dropbox\tecnicatura\2do cuatrimestre\programacion y laboratorio ii\tps\proyecto\a - la maldicion de walrus\batallas.h
+
+1637116157 source:c:\users\agust\dropbox\tecnicatura\2do cuatrimestre\programacion y laboratorio ii\tps\proyecto\a - la maldicion de walrus\enemigos.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Enemigos.h"
+
+1637115737 source:c:\users\agust\dropbox\tecnicatura\2do cuatrimestre\programacion y laboratorio ii\tps\proyecto\a - la maldicion de walrus\habilidades.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"personaje.h"
+	"habilidades.h"
+
+1637070802 source:c:\users\agust\dropbox\tecnicatura\2do cuatrimestre\programacion y laboratorio ii\tps\proyecto\a - la maldicion de walrus\inventario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"inventario.h"
+
+1637117347 source:c:\users\agust\dropbox\tecnicatura\2do cuatrimestre\programacion y laboratorio ii\tps\proyecto\a - la maldicion de walrus\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"personaje.h"
+	"habilidades.h"
+	"inventario.h"
+	"enemigos.h"
+	"batallas.h"
+	"pueblo.h"
+
+1637106071 c:\users\agust\dropbox\tecnicatura\2do cuatrimestre\programacion y laboratorio ii\tps\proyecto\a - la maldicion de walrus\pueblo.h
+	"personaje.h"
+	"Inventario.h"
+
+1637116714 source:c:\users\agust\dropbox\tecnicatura\2do cuatrimestre\programacion y laboratorio ii\tps\proyecto\a - la maldicion de walrus\personaje.c
+	<stdio.h>
+	<stdlib.h>
+	"personaje.h"
+	<string.h>
+
+1637116843 source:c:\users\agust\dropbox\tecnicatura\2do cuatrimestre\programacion y laboratorio ii\tps\proyecto\a - la maldicion de walrus\pueblo.c
+	<stdlib.h>
+	<stdio.h>
+	"string.h"
+	"Pueblo.h"
+
+1637194851 source:c:\users\tobias\desktop\universidad\2° cuatri\programacion y laboratorio\z proyecto final\la maldicion de walrus\batallas.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"personaje.h"
+	"habilidades.h"
+	"inventario.h"
+	"enemigos.h"
+	"batallas.h"
+
+1636907368 c:\users\tobias\desktop\universidad\2° cuatri\programacion y laboratorio\z proyecto final\la maldicion de walrus\personaje.h
+
+1636983104 c:\users\tobias\desktop\universidad\2° cuatri\programacion y laboratorio\z proyecto final\la maldicion de walrus\habilidades.h
+
+1636907368 c:\users\tobias\desktop\universidad\2° cuatri\programacion y laboratorio\z proyecto final\la maldicion de walrus\inventario.h
+
+1636922319 c:\users\tobias\desktop\universidad\2° cuatri\programacion y laboratorio\z proyecto final\la maldicion de walrus\enemigos.h
+
+1637193960 c:\users\tobias\desktop\universidad\2° cuatri\programacion y laboratorio\z proyecto final\la maldicion de walrus\batallas.h
+
+1637116157 source:c:\users\tobias\desktop\universidad\2° cuatri\programacion y laboratorio\z proyecto final\la maldicion de walrus\enemigos.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Enemigos.h"
+
+1637115737 source:c:\users\tobias\desktop\universidad\2° cuatri\programacion y laboratorio\z proyecto final\la maldicion de walrus\habilidades.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"personaje.h"
+	"habilidades.h"
+
+1637070802 source:c:\users\tobias\desktop\universidad\2° cuatri\programacion y laboratorio\z proyecto final\la maldicion de walrus\inventario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"inventario.h"
+
+1637155522 source:c:\users\tobias\desktop\universidad\2° cuatri\programacion y laboratorio\z proyecto final\la maldicion de walrus\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"personaje.h"
+	"habilidades.h"
+	"inventario.h"
+	"enemigos.h"
+	"batallas.h"
+	"pueblo.h"
+
+1637191325 c:\users\tobias\desktop\universidad\2° cuatri\programacion y laboratorio\z proyecto final\la maldicion de walrus\pueblo.h
+	"personaje.h"
+	"Inventario.h"
+
+1637156654 source:c:\users\tobias\desktop\universidad\2° cuatri\programacion y laboratorio\z proyecto final\la maldicion de walrus\personaje.c
+	<stdio.h>
+	<stdlib.h>
+	"personaje.h"
+	<string.h>
+
+1637190910 source:c:\users\tobias\desktop\universidad\2° cuatri\programacion y laboratorio\z proyecto final\la maldicion de walrus\pueblo.c
+	<stdlib.h>
+	<stdio.h>
+	"string.h"
+	"Pueblo.h"
+
+1637239721 source:c:\users\tobias\desktop\universidad\2° cuatri\programacion y laboratorio\z proyecto final\la maldicion de walrus, entrega de proyecto final\la maldicion de walrus\batallas.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"personaje.h"
+	"habilidades.h"
+	"inventario.h"
+	"enemigos.h"
+	"batallas.h"
+
+1636907368 c:\users\tobias\desktop\universidad\2° cuatri\programacion y laboratorio\z proyecto final\la maldicion de walrus, entrega de proyecto final\la maldicion de walrus\personaje.h
+
+1636983104 c:\users\tobias\desktop\universidad\2° cuatri\programacion y laboratorio\z proyecto final\la maldicion de walrus, entrega de proyecto final\la maldicion de walrus\habilidades.h
+
+1636907368 c:\users\tobias\desktop\universidad\2° cuatri\programacion y laboratorio\z proyecto final\la maldicion de walrus, entrega de proyecto final\la maldicion de walrus\inventario.h
+
+1636922319 c:\users\tobias\desktop\universidad\2° cuatri\programacion y laboratorio\z proyecto final\la maldicion de walrus, entrega de proyecto final\la maldicion de walrus\enemigos.h
+
+1637193960 c:\users\tobias\desktop\universidad\2° cuatri\programacion y laboratorio\z proyecto final\la maldicion de walrus, entrega de proyecto final\la maldicion de walrus\batallas.h
+
+1637197012 source:c:\users\tobias\desktop\universidad\2° cuatri\programacion y laboratorio\z proyecto final\la maldicion de walrus, entrega de proyecto final\la maldicion de walrus\enemigos.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Enemigos.h"
+
+1637196901 source:c:\users\tobias\desktop\universidad\2° cuatri\programacion y laboratorio\z proyecto final\la maldicion de walrus, entrega de proyecto final\la maldicion de walrus\habilidades.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"personaje.h"
+	"habilidades.h"
+
+1637196456 source:c:\users\tobias\desktop\universidad\2° cuatri\programacion y laboratorio\z proyecto final\la maldicion de walrus, entrega de proyecto final\la maldicion de walrus\inventario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"inventario.h"
+
+1637196901 source:c:\users\tobias\desktop\universidad\2° cuatri\programacion y laboratorio\z proyecto final\la maldicion de walrus, entrega de proyecto final\la maldicion de walrus\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"personaje.h"
+	"habilidades.h"
+	"inventario.h"
+	"enemigos.h"
+	"batallas.h"
+	"pueblo.h"
+
+1637191325 c:\users\tobias\desktop\universidad\2° cuatri\programacion y laboratorio\z proyecto final\la maldicion de walrus, entrega de proyecto final\la maldicion de walrus\pueblo.h
+	"personaje.h"
+	"Inventario.h"
+
+1637156654 source:c:\users\tobias\desktop\universidad\2° cuatri\programacion y laboratorio\z proyecto final\la maldicion de walrus, entrega de proyecto final\la maldicion de walrus\personaje.c
+	<stdio.h>
+	<stdlib.h>
+	"personaje.h"
+	<string.h>
+
+1637196069 source:c:\users\tobias\desktop\universidad\2° cuatri\programacion y laboratorio\z proyecto final\la maldicion de walrus, entrega de proyecto final\la maldicion de walrus\pueblo.c
+	<stdlib.h>
+	<stdio.h>
+	"string.h"
+	"Pueblo.h"
+
