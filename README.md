@@ -1,4 +1,4 @@
-<h3 align="center">Proyecto final del primer año de programacion</h3>
+<h3 align="center">Proyecto final del primer año de programación echo en C</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
